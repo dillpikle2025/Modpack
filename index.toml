@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Veinminer/blocks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/Veinminer/groups.json"
+hash = "5ac0560aae1f266d897ceec6ad08b79ca2d5d22d95efd17377c8026ac246048f"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "74a35fe70a4359bd3a832d5516239d0377c51555297c4f4347ca13fd10de7a76"
+
+[[files]]
+file = "config/Veinminer/update/veinminer-client-2.5.1.jar"
+hash = "65943487d42cf1f2460e8e1e572bf7f96b6509bdc27925cacecb75365374acc1"
+
+[[files]]
+file = "config/Veinminer/update/veinminer-fabric-2.5.0.jar"
+hash = "d773db9b18137ccf9691086dee1b07ae410899781378152978a39c1ad13f70e2"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "961b02bf757229570b0612724ae0aec9da078fc79b2471a15befb46016a43051"
+
+[[files]]
+file = "config/farmersdelight-client.json"
+hash = "b68ada748cdab82dcf67d923c4608a3181dad70d40758588995261590a2235e9"
+
+[[files]]
+file = "config/farmersdelight-common.json"
+hash = "bdd90884cfbde8fad7593b041685789364ac6e6636602550f836e3e03818c2b0"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "1cad2b9752f71299cd438950edcfc0b171e23fd263acba5e8a72707868b6e8d2"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "d3482af3895ad31a3b9c59b26807eb9944ede706b3d314668ad83c94d61bd195"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "fe9bba01d323a80ceb0752143bb717708110ab6d8d3c87b32055728f81366a0d"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9a7b1e888d765c16863cd6b85b0835852c732b6753677c207d6d316e70264726"
 metafile = true
