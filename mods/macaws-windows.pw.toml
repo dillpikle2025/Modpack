@@ -1,0 +1,16 @@
+filename = 'mcw-windows-2.4.1-mc1.21.10fabric.jar'
+name = "Macaw's Windows"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fa648f82b82c28b8e416a259256ed02366a43c7e82b7363e85c30f59f98de0657a37743111958ea18feff0a5643d71e20a44509e4a0f2c20803d4689e57cf91a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C7I0BCni/versions/I7EBrmQ9/mcw-windows-2.4.1-mc1.21.10fabric.jar'
+
+[update.modrinth]
+mod-id = 'C7I0BCni'
+version = 'I7EBrmQ9'

@@ -1,0 +1,16 @@
+filename = 'mcw-roofs-2.3.2-mc1.21.10fabric.jar'
+name = "Macaw's Roofs"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e879f82d4d6f09685f38a030eeedc65d57cc1d19b7a9b6f7d3c037475908b5a0301b411609de476b77303167c1f26c417f1e3c9726bf37725776b840d20deb41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B8jaH3P1/versions/jaWw7AzL/mcw-roofs-2.3.2-mc1.21.10fabric.jar'
+
+[update.modrinth]
+mod-id = 'B8jaH3P1'
+version = 'jaWw7AzL'

@@ -1,0 +1,16 @@
+filename = 'mcw-stairs-1.0.1-mc1.21.10fabric.jar'
+name = "Macaw's Stairs"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f1f69cda3a42fe359a3399b0ce841d5ed5016df1eaa7124dcf23b4b56b9b03b39cb1b285ee9ee6e3820edaae7b5d634545e44c96e55244b2e6972e98e57202c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iP3wH1ha/versions/j6m3MI7L/mcw-stairs-1.0.1-mc1.21.10fabric.jar'
+
+[update.modrinth]
+mod-id = 'iP3wH1ha'
+version = 'j6m3MI7L'

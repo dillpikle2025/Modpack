@@ -1,2 +1,101 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9a7b1e888d765c16863cd6b85b0835852c732b6753677c207d6d316e70264726"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d4107853438a5bb3c7adae5e0d5cadca6823858a560ab1156be09592676a6264"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "d0e09ac631fb21242649ad78abbd7e08f3df8238bc4ae3e50f486a0f64757932"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "1212944afd119acafe918d126074cf7c8463bffd18d2ebf9a77d03b6ed27af65"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "4fb8ecae8a69fbc34d79c605a849d9b216870334405ce2778fe1bae27ff3cfc8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f389aa47ddfce0cd37bd5d4438264f29b244ab745bfc68faabf6da61fbb9dc0c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "65c4bb969cd5fbc7a583a8358361986a0f85bfec410ddaa812f6e77487337121"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "7d20a16adbc335b0665a0df2a9197eb077a749e102c425da1406cf11359289df"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "1bfc161146d39b25329fdd80beabdbd1902582bec1dda4407be2afa3b83ebc2a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "6be8b96044c8ed79ae15f2485c4091e1b61f261c208aa6eb378762b67714c690"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "7593eafd484ef9ffca0ed47a3d3c8568b30a69d68382b75157295717ad592570"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "f8ae48637b1e87e1580e1014beb7a0b132703afc7587a54c9f2b3e5bcab98188"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "29ba394a4e554a40893e0be8f0b88daec7e518db27ab835522293a0d27ca50eb"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "b5e02e6f155d895029cfb8b1201ce97f5b42829420163a7a69bb0193c51d98d5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "a197aaf033efba7d90f46c80ddb9aba3103a26472e3be50db381ca4e84c38755"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "5c26a62d98d4c8c382357e15ac4cfd34f18e2e5d06ce8c04d5b61e116555d369"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "4aeaea6322e47049e00ffc17e66a58be9f5575f83b3f7e5909dbc3771e5a27b2"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "1e651aa11c6808c6fa21400330dd7ef2580466a6885debc918658e4bf91368ff"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "16600e84808b5a7d01ee6bc3f1d7cfda9d2fc56c914d1ede4d114b5edbfc40b9"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "dfc8c0117d6b361d249bd0a7b72b00b02a4282bf76d7970a20f6bc15ecc3af45"
+metafile = true
